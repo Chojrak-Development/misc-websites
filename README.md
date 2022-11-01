@@ -1,2 +1,2 @@
-# misc-websites
-Miscellaneous websites like error pages used on Chojrak Development's Main Server. Usually one-page.
+# Miscellaneous Chojrak Development Websites
+Usually one-file webpages used across Chojrak Development Primary Webserver like Error Pages
