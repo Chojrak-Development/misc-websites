@@ -1,0 +1,22 @@
+{
+  "400": {
+    "title": "400 - Bad Request!",
+    "content": "We could not understand your request! Please try again!"
+  },
+  "401": {
+    "title": "401 - Unauthorized!",
+    "content": "You are unauthorized to access <i id=\"url\"></i> !<br>Maybe you are missing valid credentials?"
+  },
+  "403": {
+    "title": "403 - Forbidden!",
+    "content": "Access to <i id=\"url\"></i> was denied!"
+  },
+  "404": {
+    "title": "404 - Not found!",
+    "content": "We couldn't anything on <i id=\"url\"></i> !"
+  },
+  "500": {
+    "title": "500 - Internal Server Error!",
+    "content": "There was an internal server errror while processing your request!<br>It was our fault and we are sorry, please try again later."
+  }
+}

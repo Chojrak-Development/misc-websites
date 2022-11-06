@@ -1,0 +1,30 @@
+{
+  "name": "misc-websites",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Various websites like error pages used across Chojrak Development's webserver.",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chojrak-Development/misc-websites.git"
+  },
+  "author": "Chojrak Development",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Chojrak-Development/misc-websites/issues"
+  },
+  "homepage": "https://github.com/Chojrak-Development/misc-websites#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "cheerio": "^1.0.0-rc.12",
+    "glob": "^8.0.3",
+    "html-minifier-terser": "^7.0.0",
+    "htmlnano": "^2.0.2",
+    "postcss": "^8.4.18",
+    "postcss-preset-env": "^7.8.2",
+    "sass": "^1.56.0"
+  }
+}
